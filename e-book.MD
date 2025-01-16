@@ -13,7 +13,6 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
 - [Canva](https://www.canva.com/)
 
 ## 🧠 Prompts
