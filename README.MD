@@ -4,8 +4,7 @@
 <p align="center">
 <img
     https://static.zoom.com.br/content/Image/2020/Listas/celular%20para%20idoso.png
-    src="./assets/cover.png"
-    width="400"  
+      
 />
 </p>
 
