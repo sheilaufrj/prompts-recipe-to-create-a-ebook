@@ -5,7 +5,6 @@
 <img
     https://static.zoom.com.br/content/Image/2020/Listas/celular%20para%20idoso.png
       
-/>
 </p>
 
 # Projeto EBOOK Gerado por I.A.s - Instagram em 6 passos
